@@ -1,5 +1,7 @@
 # Introduction - "Read More / Read Less React Component"
 
+[![npm version](https://badge.fury.io/js/read-more-and-less.svg)](https://badge.fury.io/js/read-more-and-less) ![NPM](https://img.shields.io/npm/l/read-more-and-less)
+
 > _This is an updated iteration of [react-read-more-less
 > ](https://www.npmjs.com/package/react-read-more-less)_
 
