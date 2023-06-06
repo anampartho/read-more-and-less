@@ -27,7 +27,6 @@ export const ReadMoreAndLess = ({
     if (stopPropogation) {
       e.stopPropagation();
     }
-
     if (preventDefault) {
       e.preventDefault();
     }
