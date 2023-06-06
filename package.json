@@ -1,6 +1,6 @@
 {
   "name": "read-more-and-less",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Tashrik Anam <https://github.com/anampartho>",
   "description": "A react component to show \"Read More\" or \"Read Less\" button after text based on character limit.",
