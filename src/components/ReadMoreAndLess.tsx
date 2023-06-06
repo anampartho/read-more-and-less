@@ -18,9 +18,7 @@ export const ReadMoreAndLess = ({
   text,
 }: ReadMoreAndLess) => {
   const [trimmedText] = useState(text.trim());
-  const [content, setContent] = useState(
-    <span className="read-more-and-less"></span>
-  );
+  const [content, setContent] = useState(<></>);
   const [charLimit, setCharLimit] = useState(originalCharLimit);
 
   const handlePropagationAndPrevention = (
